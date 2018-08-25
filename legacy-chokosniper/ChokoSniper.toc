@@ -1,0 +1,37 @@
+## Interface: 70300
+## Version: 0.1
+## Title: ChokoSniper
+## Author: Chokobo
+## Notes: Custom AH Sniper Client
+## SavedVariables: ChokoSniperOptions
+## Dependencies: TradeSkillMaster
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+
+embeds.xml
+
+
+#ChokoSniper.lua
+
+modules\core\Core.lua
+modules\core\Pricing.lua
+
+modules\ui\uiCore.lua
+modules\ui\uiAssembly.lua
+modules\ui\uiEvents.lua
+
+modules\pricing\pricingCore.lua
+modules\pricing\pricingAssembly.lua
+modules\pricing\pricingEvents.lua
+
+modules\scan\scanCore.lua
+modules\scan\scanAssembly.lua
+modules\scan\scanEvents.lua
+
+modules\filter\filterCore.lua
+modules\filter\filterAssembly.lua
+modules\filter\filterEvents.lua
+
+
+
+test.lua
