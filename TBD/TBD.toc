@@ -1,0 +1,10 @@
+## Interface: 80000
+## Version: 0.1
+## Title: A_TBD
+## Author: a,b,c
+## Notes: Advanced AH sniper client.
+##SavedVariablesPerCharacter TBDDB
+
+Init.lua
+Debug.lua
+
